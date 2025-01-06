@@ -32,7 +32,7 @@ Les données proviennent du jeu de données [Breast Cancer Wisconsin (Diagnostic
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/knn-breast-cancer.git
+   git clone https://github.com/Eyub4k/Knn-Breast-Cancer.git
    ```
 
 2. Lancez le notebook Jupyter :
